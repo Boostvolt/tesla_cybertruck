@@ -1,6 +1,6 @@
-# tesla_modelx
+# tesla_cybertruck
 
-FiveM Tesla X Model with custom handling
+FiveM Tesla Cybertruck with custom handling
 - Custom handling, mimicking real-life expectations
 - Best in class acceleration: 0-60 ~4sec, 0-100 ~7sec
 - Limited top end due to increased drag: ~160mph
@@ -28,25 +28,25 @@ This resource was developed alongside [tesla_ev](https://github.com/boostvolt/te
 ### Using Git
 ```
 cd resources
-git clone https://github.com/boostvolt/tesla_modelx [tesla]/tesla_modelx/
+git clone https://github.com/boostvolt/tesla_cybertruck [tesla]/tesla_cybertruck/
 ```
 
 ### Manually
-- Download https://github.com/boostvolt/tesla_modelx/archive/master.zip
-- Create and place in in `[tesla]/tesla_modelx` directory
+- Download https://github.com/boostvolt/tesla_cybertruck/archive/master.zip
+- Create and place in in `[tesla]/tesla_cybertruck` directory
 
 ## Installation
 - Add this in your `server.cfg`:
 
 ```lua
-start tesla_modelx
+start tesla_cybertruck
 ```
 
 ## Screenshots
 
-![photo_2019-04-14_00-43-29 (1)](https://user-images.githubusercontent.com/79330/56089931-47b54480-5e4f-11e9-9bdf-5183bf6a9ec6.jpg)
+![photo_2019-04-14_00-43-29 (1)](https://github.com/Boostvolt/tesla_cybertruck/blob/master/img/cybertruck_1.png?raw=true)
 
-![photo_2019-04-14_00-43-29 (2)](https://user-images.githubusercontent.com/79330/56089930-4552ea80-5e4f-11e9-8ac3-8dbdf466dc5a.jpg)
+![photo_2019-04-14_00-43-29 (2)](https://github.com/Boostvolt/tesla_cybertruck/blob/master/img/cybertruck_2.png?raw=true)
 
 
 [wtf_ev]: https://github.com/boostvolt/tesla_ev
