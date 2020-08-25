@@ -46,8 +46,6 @@ start tesla_cybertruck
 
 ![photo_2019-04-14_00-43-29 (1)](https://github.com/Boostvolt/tesla_cybertruck/blob/master/img/cybertruck_1.png?raw=true)
 
-![photo_2019-04-14_00-43-29 (2)](https://github.com/Boostvolt/tesla_cybertruck/blob/master/img/cybertruck_2.png?raw=true)
-
 
 [wtf_ev]: https://github.com/boostvolt/tesla_ev
 [wtf_tesla_supercharger]: https://github.com/boostvolt/tesla_supercharger
